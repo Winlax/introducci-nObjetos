@@ -1,5 +1,5 @@
 
-package IntroduccionObjetos;
+package src;
 
 import java.util.Scanner;
 
