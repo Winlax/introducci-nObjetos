@@ -1,3 +1,6 @@
+
+package IntroduccionObjetos;
+
 import java.util.Scanner;
 
 public class Cuadrado {
